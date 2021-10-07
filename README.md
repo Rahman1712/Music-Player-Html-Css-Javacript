@@ -13,3 +13,7 @@ Music Player
 
 Start Playing
 ![music player play](player/music_play.PNG)
+
+
+Music adjust
+![music adjusting tools](player/music_adjust.PNG)
